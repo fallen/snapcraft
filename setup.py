@@ -53,6 +53,7 @@ setup(
         'requests',
         'requests-oauthlib',
         'ssoclient',
+        'python-magic',
     ],
     test_suite='snapcraft.tests',
     license='GPL v3',
